@@ -66,6 +66,6 @@ public class Ex03 {
         for(int i=0; i<6; i++){
             System.out.println(myLotto[i]+" ");
         }
-        System.out.println("\n만춘 로또 번호의 개수: " + count);
+        System.out.println("\n맞춘 로또 번호의 개수: " + count);
     }
 }
